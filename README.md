@@ -1,5 +1,5 @@
 ### **`Heya, I'm Jor!`**
-[![C#](https://custom-icon-badges.demolab.com/badge/Website-000000.svg?logo=materialweb&logoColor=white)](https://jor02.dev)
+[![Websute](https://custom-icon-badges.demolab.com/badge/Website-000000.svg?logo=materialweb&logoColor=white)](https://jor02.dev)
 [![Itch.io](https://img.shields.io/badge/itch.io-%23FF0B34.svg?logo=Itch.io&logoColor=white)](https://jor02.itch.io/)
 [![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?logo=bluesky&logoColor=fff)](https://bsky.app/profile/jor02.bsky.social)
 [![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://x.com/Jor02video)
